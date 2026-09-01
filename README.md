@@ -2,6 +2,10 @@
 
 A gaming survey form built with HTML and CSS as part of the freeCodeCamp Responsive Web Design Certification.
 
+## Live Demo
+
+[View Live Project](https://rajeevthomas895.github.io/gaming-survey-form/)
+
 ## About the Project
 
 This project was completed as part of the freeCodeCamp Responsive Web Design Certification.
